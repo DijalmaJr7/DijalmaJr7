@@ -2,7 +2,7 @@
 
 Meu nome é Dijalma Joaquim de Oliveira Junior
 
-##HOBBIES
+## HOBBIES
 
 - Estudar
 - Correr
@@ -10,12 +10,12 @@ Meu nome é Dijalma Joaquim de Oliveira Junior
 - Andar de Patins
 - Cozinhar
 
-##ESTUDANDO
+## ESTUDANDO
 
 - HTML
 - CSS
 - Javascript
 
-##CONTATO
+## CONTATO
 
 - Twitter @DijalmaJr7
